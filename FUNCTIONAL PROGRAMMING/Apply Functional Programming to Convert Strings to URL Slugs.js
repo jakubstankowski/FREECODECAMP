@@ -11,4 +11,4 @@ function urlSlug(title) {
 }
 // Add your code above this line
 
-var winterComing = urlSlug(globalTitle); // Should be "winter-is-coming"
+const winterComing = urlSlug(globalTitle); // Should be "winter-is-coming"
