@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3339064b-02eb-4625-be10-668bb49793de" name="Default Changelist" comment="" />
+    <list default="true" id="3339064b-02eb-4625-be10-668bb49793de" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/FUNCTIONAL PROGRAMMING/Split a String into an Array Using the split Method.js" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -29,12 +31,12 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="eslint" value="1" />
-          <entry key="js" value="19" />
+          <entry key="js" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JavaScript" value="19" />
+          <entry key="JavaScript" value="21" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
@@ -57,13 +59,27 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FUNCTIONAL PROGRAMMING/Use the filter Method to Extract Data from an Array.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="2950">
               <caret line="118" column="26" selection-start-line="118" selection-start-column="26" selection-end-line="118" selection-end-column="26" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FUNCTIONAL PROGRAMMING/Use the reduce Method to Analyze Data.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="608">
+              <caret line="131" lean-forward="true" selection-start-line="131" selection-end-line="131" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/FUNCTIONAL PROGRAMMING/Split a String into an Array Using the split Method.js">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -99,6 +115,8 @@
         <option value="$PROJECT_DIR$/FUNCTIONAL PROGRAMMING/Use the map Method to Extract Data from an Array.js" />
         <option value="$PROJECT_DIR$/FUNCTIONAL PROGRAMMING/Implement map on a Prototype.js" />
         <option value="$PROJECT_DIR$/FUNCTIONAL PROGRAMMING/Use the filter Method to Extract Data from an Array.js" />
+        <option value="$PROJECT_DIR$/FUNCTIONAL PROGRAMMING/Use the reduce Method to Analyze Data.js" />
+        <option value="$PROJECT_DIR$/FUNCTIONAL PROGRAMMING/Split a String into an Array Using the split Method.js" />
       </list>
     </option>
   </component>
@@ -215,12 +233,12 @@
       <workItem from="1543323408740" duration="1265000" />
       <workItem from="1543336350418" duration="87000" />
       <workItem from="1543416261610" duration="1568000" />
-      <workItem from="1543477566288" duration="1296000" />
+      <workItem from="1543477566288" duration="1921000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13594000" />
+    <option name="totallyTimeSpent" value="14219000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -375,6 +393,16 @@
           <caret line="118" column="26" selection-start-line="118" selection-start-column="26" selection-end-line="118" selection-end-column="26" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FUNCTIONAL PROGRAMMING/Use the reduce Method to Analyze Data.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="131" lean-forward="true" selection-start-line="131" selection-end-line="131" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FUNCTIONAL PROGRAMMING/Split a String into an Array Using the split Method.js">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
