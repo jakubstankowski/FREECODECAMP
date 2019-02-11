@@ -17,37 +17,38 @@
     <session id="-1096975312">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="19" />
-          <entry key="project.open.time.0" value="2" />
+          <entry key="project.closed" value="21" />
+          <entry key="project.open.time.0" value="4" />
           <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.8" value="4" />
           <entry key="project.open.time.9" value="6" />
-          <entry key="project.opened" value="19" />
+          <entry key="project.opened" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="eslint" value="1" />
-          <entry key="js" value="25" />
+          <entry key="js" value="27" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JavaScript" value="25" />
+          <entry key="JavaScript" value="27" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="js" value="63" />
+          <entry key="js" value="72" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JavaScript" value="63" />
+          <entry key="JavaScript" value="72" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts">
@@ -62,7 +63,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FUNCTIONAL PROGRAMMING/Use the filter Method to Extract Data from an Array.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2950">
+            <state relative-caret-position="3068">
               <caret line="118" column="26" selection-start-line="118" selection-start-column="26" selection-end-line="118" selection-end-column="26" />
             </state>
           </provider>
@@ -71,7 +72,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FUNCTIONAL PROGRAMMING/Use the reduce Method to Analyze Data.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3275">
+            <state relative-caret-position="3406">
               <caret line="131" selection-start-line="131" selection-end-line="131" />
             </state>
           </provider>
@@ -80,7 +81,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FUNCTIONAL PROGRAMMING/Split a String into an Array Using the split Method.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
+            <state relative-caret-position="156">
               <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
             </state>
           </provider>
@@ -89,7 +90,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FUNCTIONAL PROGRAMMING/Combine an Array into a String Using the join Method.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
+            <state relative-caret-position="208">
               <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
@@ -98,7 +99,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FUNCTIONAL PROGRAMMING/Apply Functional Programming to Convert Strings to URL Slugs.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
+            <state relative-caret-position="364">
               <caret line="14" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
@@ -107,17 +108,35 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FUNCTIONAL PROGRAMMING/Introduction to Currying and Partial Application.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
+            <state relative-caret-position="260">
               <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/INTERMEDIATE ALGORITHM SCRIPTING/Sum All Numbers in a Range.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+            <state relative-caret-position="234">
+              <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/INTERMEDIATE ALGORITHM SCRIPTING/Missing letters.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="397">
+              <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/INTERMEDIATE ALGORITHM SCRIPTING/Sum All Odd Fibonacci Numbers.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="21" column="7" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -161,6 +180,8 @@
         <option value="$PROJECT_DIR$/FUNCTIONAL PROGRAMMING/Apply Functional Programming to Convert Strings to URL Slugs.js" />
         <option value="$PROJECT_DIR$/FUNCTIONAL PROGRAMMING/Introduction to Currying and Partial Application.js" />
         <option value="$PROJECT_DIR$/INTERMEDIATE ALGORITHM SCRIPTING/Sum All Numbers in a Range.js" />
+        <option value="$PROJECT_DIR$/INTERMEDIATE ALGORITHM SCRIPTING/Missing letters.js" />
+        <option value="$PROJECT_DIR$/INTERMEDIATE ALGORITHM SCRIPTING/Sum All Odd Fibonacci Numbers.js" />
       </list>
     </option>
   </component>
@@ -170,13 +191,18 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1374" />
-    <option name="y" value="52" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/NODE/package.json" />
+    </packageJsonPaths>
   </component>
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
@@ -184,6 +210,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -214,13 +241,17 @@
             <path>
               <item name="11 - FREECODECAMP PROJEKTY LISTOPAD 2018 - JS ES6" type="b2602c69:ProjectViewProjectNode" />
               <item name="11 - FREECODECAMP PROJEKTY LISTOPAD 2018 - JS ES6" type="462c0819:PsiDirectoryNode" />
+              <item name="INTERMEDIATE ALGORITHM SCRIPTING" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="11 - FREECODECAMP PROJEKTY LISTOPAD 2018 - JS ES6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="11 - FREECODECAMP PROJEKTY LISTOPAD 2018 - JS ES6" type="462c0819:PsiDirectoryNode" />
               <item name="OBJECT ORIENTED PROGRAMMING" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -281,16 +312,20 @@
       <workItem from="1543837982396" duration="596000" />
       <workItem from="1543840031770" duration="112000" />
       <workItem from="1543856595224" duration="1139000" />
+      <workItem from="1549709889892" duration="681000" />
+      <workItem from="1549794207648" duration="70000" />
+      <workItem from="1549802456542" duration="136000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19681000" />
+    <option name="totallyTimeSpent" value="20568000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1374" y="52" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23883928" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33705357" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -435,50 +470,64 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/FUNCTIONAL PROGRAMMING/Use the filter Method to Extract Data from an Array.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2950">
+        <state relative-caret-position="3068">
           <caret line="118" column="26" selection-start-line="118" selection-start-column="26" selection-end-line="118" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/FUNCTIONAL PROGRAMMING/Use the reduce Method to Analyze Data.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3275">
+        <state relative-caret-position="3406">
           <caret line="131" selection-start-line="131" selection-end-line="131" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/FUNCTIONAL PROGRAMMING/Split a String into an Array Using the split Method.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
+        <state relative-caret-position="156">
           <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/FUNCTIONAL PROGRAMMING/Combine an Array into a String Using the join Method.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
+        <state relative-caret-position="208">
           <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/FUNCTIONAL PROGRAMMING/Apply Functional Programming to Convert Strings to URL Slugs.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
+        <state relative-caret-position="364">
           <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/FUNCTIONAL PROGRAMMING/Introduction to Currying and Partial Application.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
+        <state relative-caret-position="260">
           <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/INTERMEDIATE ALGORITHM SCRIPTING/Sum All Numbers in a Range.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        <state relative-caret-position="234">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/INTERMEDIATE ALGORITHM SCRIPTING/Missing letters.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/INTERMEDIATE ALGORITHM SCRIPTING/Sum All Odd Fibonacci Numbers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="21" column="7" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
         </state>
       </provider>
     </entry>
